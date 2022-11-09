@@ -1,5 +1,7 @@
 # wiki
 To quickly look up some things that might be needed at some point in the future:
+## Contents
+[VPN](https://mistywest.slack.com/archives/C02MGT5GK44/p1663707227736199)
 
 ### VPN
 #### configure L2TP VPN with nmcli
